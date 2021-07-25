@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **chenxingyu0830/chenxingyu0830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi~ Thank you for coming! 👋,
+
+<h4>我是ChenXingyu，你也可以称呼我SmallYU，叫我小鱼就好了~</h4>
+<h4>一名前端工程师，目前在杭州工作。</h4>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=chenxingyu0830&show_icons=true">
+<img src="./image/background-min.jpg">
