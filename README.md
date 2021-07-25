@@ -13,9 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi~ Thank you for coming! 👋,
+## Hi~ Thank you for coming! 👋
 
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=chenxingyu0830&show_icons=true">
 <h4>我是ChenXingyu，你也可以称呼我SmallYU，叫我小鱼就好了~</h4>
 <h4>一名前端工程师，目前在杭州工作。</h4>
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=chenxingyu0830&show_icons=true">
+<div>如果你需要了解更多我的信息，可以通过左侧信息栏获取。</div>
+<div>如果你需要了解更多我的project，可以通过下方Pinned获取。</div>
+<br />
+<hr />
+
 <img src="./image/background-min.jpg">
