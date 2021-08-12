@@ -30,8 +30,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-webpack-red?style=for-the-badge&color=6bc233)
 ![](https://img.shields.io/badge/-jest-red?style=for-the-badge&color=058143)
 
-<hr />
-
-
-
 <img src="./image/background-min.jpg">
